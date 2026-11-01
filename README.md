@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4F91,100:2F74C6&height=200&section=header&text=Taha%20Ceylan&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Developer%20%C2%B7%2042%20T%C3%BCrkiye%20(Ecole%2042)&descSize=18&descAlignY=58" alt="Taha Ceylan" />
+  <img src="assets/header.svg" width="100%" alt="Taha Ceylan · Software Developer · 42 Türkiye (Ecole 42)" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F74C6&center=true&vCenter=true&width=600&height=40&lines=Software+Developer;C+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+Linux;Systems%2C+networking+and+web+projects;Trained+at+42+T%C3%BCrkiye+(Ecole+42)" alt="Typing SVG" />
+  <img src="assets/terminal.svg" width="100%" alt="Terminal session: whoami, tech stack, 42 projects, webserv, curl and nmap" />
 </p>
 
 <p align="center">
@@ -121,5 +121,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F74C6,100:1B4F91&height=120&section=footer" alt="footer" />
+  <img src="assets/footer.svg" width="100%" alt="taha@hexcyb: exit" />
 </p>
