@@ -15,26 +15,11 @@
 
 ## 👨‍💻 About Me
 
-I learned software by building it. At 42 Türkiye I finished every Common Core project, from a Unix shell and an HTTP server to a Docker infrastructure and a team web app.
-
-```cpp
-// about_me.cpp
-#include <string>
-#include <vector>
-
-struct TahaCeylan {
-    std::string role     = "Junior Software Developer";
-    std::string school   = "42 Türkiye (Ecole 42) - full Common Core";
-    std::string degree   = "Software Engineering, 2026 (distance learning)";
-    std::string location = "Turkey";
-
-    std::vector<std::string> comfortable = {"C", "C++", "C#", "Linux", "Bash", "Git"};
-    std::vector<std::string> alsoUsed    = {"React", "JavaScript", "Python", "Docker",
-                                            "SQL", "Unity", "SAP ERP & ABAP"};
-
-    bool openToWork = true;
-};
-```
+- 🎓 Completed the **full Common Core** at **42 Türkiye**, the Turkish campus of the France-based **Ecole 42** network
+- 🎓 **Software Engineering** degree, 2026 (distance learning)
+- 💻 Comfortable with **C, C++, C#, Linux, Bash and Git**
+- 🛠️ Built a Unix shell, an HTTP server, a Docker infrastructure and a team web app
+- 🎯 Looking for a **junior software developer** role
 
 ## 🛠️ Tech Stack
 
