@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/42-T%C3%BCrkiye-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Türkiye" />
   <img src="https://img.shields.io/badge/Based%20in-Turkey-E30A17?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Turkey" />
   <img src="https://img.shields.io/badge/Open%20to%20work-Junior%20Developer-2EA44F?style=for-the-badge" alt="Open to work" />
-  <img src="https://komarev.com/ghpvc/?username=HexCyb&label=Profile%20views&color=1B4F91&style=for-the-badge" alt="Profile views" />
 </p>
 
 ## 👨‍💻 About Me
@@ -136,6 +135,7 @@ struct TahaCeylan {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/taha-ceylan-a0598b28b/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=HexCyb&label=Profile%20views&color=1B4F91&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
