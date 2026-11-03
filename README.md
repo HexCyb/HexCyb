@@ -14,11 +14,11 @@
 </p>
 
 <p align="center">
-<img src="assets/about.svg" width="100%" alt="About. Software developer focused on systems programming, backend infrastructure and security. I built my foundation at 42, writing C and C++ from scratch on Linux, with every project peer-reviewed. I enjoy turning low-level knowledge into fast, reliable and secure software. Role: Software Developer; Based In: Ankara, Türkiye; Training: 42 Türkiye · Ecole 42 network; Degree: BSc Software Engineering · 2026; Focus: Systems · Backend · Security." />
+<img src="assets/about.svg" width="100%" alt="About. Software developer focused on systems programming, backend infrastructure and security. I built my foundation at 42, writing C and C++ from scratch on Linux with every project peer-reviewed, and I enjoy turning that low-level knowledge into fast, reliable and secure software. Focus: Systems: C &amp; C++ on Linux: processes, threads, signals; Backend: HTTP/1.1 from scratch, NGINX, Docker Compose; Security: TCP/IP, TLS, hardened servers, 4 UoL courses. Shown as about.c: a C struct with name Taha Ceylan, role Software Developer, base Ankara, Türkiye, school 42 Türkiye, degree BSc Software Engineering, focus SYSTEMS | BACKEND | SECURITY; it compiles with -Wall -Wextra -Werror: 0 warnings, 0 errors." />
 </p>
 
 <p align="center">
-<img src="assets/stack.svg" width="100%" alt="Stack. Languages: C, C++, C#, Python, TypeScript, JavaScript, HTML, CSS. Systems and tooling: Linux, Bash, Git, Docker, NGINX, MariaDB, SQL, SAP. Domains: Systems programming, Backend &amp; infrastructure, Networking · TCP/IP, Cyber security, SAP ERP." />
+<img src="assets/stack.svg" width="100%" alt="Stack, drawn as a request path from top to bottom: Web: TypeScript, JavaScript, HTML, CSS (used in ft_transcendence); Network: TCP/IP, HTTP/1.1, Sockets (used in NetPractice · webserv); Infrastructure: NGINX, Docker, Compose (used in Inception · ft_transcendence); Application: C, C++, C#, Python (used in webserv · minishell · cub3D); Data: SQL · MySQL, MariaDB (used in Inception); System: Linux, Bash, Git, pthreads (used in Born2beroot · Philosophers); Enterprise: SAP ERP (4 SAP certificates). Security across every layer: TLS 1.2 / 1.3, Firewall, SSH, Hardening, 4 UoL courses." />
 </p>
 
 <p align="center">
