@@ -1,35 +1,38 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Taha Ceylan · Software Developer · 42 Türkiye (Ecole 42)" />
+<img src="assets/header.svg" width="100%" alt="Taha Ceylan, Software Developer. Systems programming, backend infrastructure and security. Ankara, Türkiye." />
 </p>
 
 <p align="center">
-  <img src="assets/terminal.svg" width="100%" alt="Terminal session: whoami, tech stack, 42 projects, webserv, curl and nmap" />
+<a href="https://www.linkedin.com/in/hexcyb/"><img src="assets/chip-linkedin.svg" height="34" alt="LinkedIn: in/hexcyb" /></a>
+<a href="https://www.instagram.com/hexcyb/"><img src="assets/chip-instagram.svg" height="34" alt="Instagram: @hexcyb" /></a>
+<img src="assets/chip-42.svg" height="34" alt="42 Türkiye" />
+<img src="assets/chip-location.svg" height="34" alt="Ankara, Türkiye" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/taha-ceylan-a0598b28b/"><img src="assets/chip-linkedin.svg" height="36" alt="LinkedIn" /></a>
-  <img src="assets/chip-42.svg" height="36" alt="42 Türkiye" />
-  <img src="assets/chip-location.svg" height="36" alt="Based in Türkiye" />
+<img src="assets/terminal.svg" width="100%" alt="Terminal session: whoami; build and start webserv; curl returns HTTP/1.1 200 OK; the Inception containers start with Docker Compose." />
 </p>
 
 <p align="center">
-  <img src="assets/about.svg" width="100%" alt="About. Role: Software Developer. Training: 42 Türkiye, part of the Ecole 42 network (France). Degree: Bachelor's in Software Engineering, 2026. Core: C, C++ and C# on Linux. Systems: processes, threads, sockets, containers. Focus: networking and cyber security. Base: Türkiye." />
+<img src="assets/about.svg" width="100%" alt="About. Software developer focused on systems programming, backend infrastructure and security. I built my foundation at 42, writing C and C++ from scratch on Linux, with every project peer-reviewed. I enjoy turning low-level knowledge into fast, reliable and secure software. Role: Software Developer; Based In: Ankara, Türkiye; Training: 42 Türkiye · Ecole 42 network; Degree: BSc Software Engineering · 2026; Focus: Systems · Backend · Security." />
 </p>
 
 <p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Stack. Core: C, C++, C#, Linux, Bash, Git. Also worked with: React, JavaScript, Python, Docker, MariaDB, NGINX, HTML, CSS, Unity. Domains: systems programming, network and cyber security, SAP ERP and ABAP." />
+<img src="assets/stack.svg" width="100%" alt="Stack. Languages: C, C++, C#, Python, TypeScript, JavaScript, HTML, CSS. Systems and tooling: Linux, Bash, Git, Docker, NGINX, MariaDB, SQL, SAP. Domains: Systems programming, Backend &amp; infrastructure, Networking · TCP/IP, Cyber security, SAP ERP." />
 </p>
 
 <p align="center">
-  <img src="assets/projects.svg" width="100%" alt="Projects from the 42 Common Core: webserv (NGINX-like HTTP/1.1 server in C++98), minishell (Bash-like Unix shell in C), ft_transcendence (real-time multiplayer Pong website, team project), Inception (Docker infrastructure with NGINX, WordPress and MariaDB), Born2beroot (hardened Linux server), Philosophers (threads and mutexes), cub3D (raycasting engine), plus Libft, ft_printf, get_next_line, push_swap, pipex, so_long, NetPractice and CPP Modules 00–09." />
+<a href="https://github.com/HexCyb?tab=repositories"><img src="assets/projects.svg" width="100%" alt="Projects from the 42 Common Core: webserv: HTTP/1.1 server written from scratch in C++98: one poll() loop, non-blocking sockets, CGI and uploads; minishell: Bash-like Unix shell with pipes, redirections, environment variables and signal handling; ft_transcendence: Single-page Pong website in TypeScript: 1v1, tournaments and an AI opponent, served by nginx over HTTPS; Inception: Three-container WordPress stack with Docker Compose: NGINX (TLS 1.2/1.3), php-fpm and MariaDB; Born2beroot: Hardened Debian server in a VM: encrypted LVM, UFW firewall, SSH on a custom port, strict sudo policy; Philosophers: Dining philosophers simulation with threads and mutexes, free of data races and deadlocks; cub3D: Wolfenstein-style 3D engine rendered with raycasting on MiniLibX; +9 more: Libft · ft_printf · get_next_line · push_swap · Minitalk · pipex · so_long · NetPractice · CPP Modules 00–09." /></a>
 </p>
 
+<p align="center"><sub><a href="https://github.com/HexCyb/webserv">webserv</a> · <a href="https://github.com/HexCyb/Minishell">Minishell</a> · <a href="https://github.com/HexCyb/ft_transcendence">ft_transcendence</a> · <a href="https://github.com/HexCyb/Inception">Inception</a> · <a href="https://github.com/HexCyb/Born2beroot">Born2beroot</a> · <a href="https://github.com/HexCyb/Philosophers">Philosophers</a> · <a href="https://github.com/HexCyb/Cub3D">Cub3D</a> · <a href="https://github.com/HexCyb/NetPractice">NetPractice</a> · <a href="https://github.com/HexCyb/pipex">pipex</a> · <a href="https://github.com/HexCyb/Minitalk">Minitalk</a> · <a href="https://github.com/HexCyb/Push_swap">Push_swap</a> · <a href="https://github.com/HexCyb/so_long">so_long</a> · <a href="https://github.com/HexCyb/CPP_Modules">CPP_Modules</a> · <a href="https://github.com/HexCyb/42-Cursus">42-Cursus</a></sub></p>
+
 <p align="center">
-  <img src="assets/credentials.svg" width="100%" alt="Credentials: 13 verified Coursera certificates (2023). Cyber Security, University of London with Royal Holloway: 4 courses. Computer Science and C++, University of London with Goldsmiths: 5 courses. SAP ERP, SAP Technology Consultant track: 4 courses." />
+<img src="assets/credentials.svg" width="100%" alt="Credentials, 13 verified on Coursera (2023): CYBER SECURITY — University of London with Royal Holloway: Cyber Security Fundamentals, Introduction to Computer Security, Introduction to Network Security, Security Management &amp; Governance; COMPUTER SCIENCE · C++ — University of London with Goldsmiths: How Computers Work, Introduction to OOP in C++, C++ Programming: Classes and Data, OOP in C++: Functions, Working with Objects in C++; SAP ERP — SAP Technology Consultant track: SAP Professional Fundamentals, Designing an SAP Solution, Implementing an SAP Solution, Becoming an SAP Professional." />
 </p>
 
 <details>
-<summary><b>Verify all 13 credentials</b> · every ID opens the official Coursera record</summary>
+<summary><b>Verify all 13 certificates</b> · every ID opens the official Coursera record</summary>
 <br />
 
 | Track | Course | Issuer | Credential ID |
@@ -53,9 +56,10 @@
 </details>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/taha-ceylan-a0598b28b/"><img src="assets/contact.svg" width="100%" alt="Contact: connect on LinkedIn, linkedin.com/in/taha-ceylan-a0598b28b" /></a>
+<a href="https://www.linkedin.com/in/hexcyb/"><img src="assets/contact.svg" width="49%" alt="LinkedIn: linkedin.com/in/hexcyb" /></a>
+<a href="https://www.instagram.com/hexcyb/"><img src="assets/contact-instagram.svg" width="49%" alt="Instagram: @hexcyb" /></a>
 </p>
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="taha@hexcyb: exit" />
+<img src="assets/footer.svg" width="100%" alt="taha@hexcyb: exit" />
 </p>
